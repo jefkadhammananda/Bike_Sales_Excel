@@ -10,6 +10,18 @@
 
 -Menambahkan kolom baru terkait rentang umur, dengan formula =IF(L2>54;"Old";IF(L2>=31;"Middle Age";IF(L2<31;"Teenager";"invalid")))
 
-#Membuat table baru pada sheet "Pivot Table"
+**#Membuat table baru pada sheet "Pivot Table"**
 
--Membuat tabel dan melakukan visualisasi terhadap data income terhadap gender yang melakukan pembelian sepeda
+-Membuat tabel dan melakukan visualisasi data income terhadap gender yang melakukan pembelian sepeda
+
+-Membuat tabel dan melakukan visualisasi pembelian sepeda terhadap jarak perjalanan
+
+-Membuat tabel dan melakukan visualisasi pembelian sepeda terhadap umur
+
+**#Membuat dashboard pada sheet "Dashboard"**
+
+-Menghilangkan Gridlines
+
+-Membuat judul dashboard
+
+-Melakukan insert Slicer dan menghubungkan data yang ditampilkan pada dashboard menggunakan report connections
